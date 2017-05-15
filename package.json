@@ -1,0 +1,14 @@
+{
+  "name": "ng22",
+  "version": "1.0.0",
+  "description": "Utilities for Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayman Mahfouz",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.0.8"
+  }
+}
